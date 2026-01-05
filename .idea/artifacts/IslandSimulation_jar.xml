@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IslandSimulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IslandSimulation_jar</output-path>
+    <root id="archive" name="IslandSimulation.jar">
+      <element id="module-output" name="IslandSimulation" />
+    </root>
+  </artifact>
+</component>
